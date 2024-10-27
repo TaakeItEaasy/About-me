@@ -7,12 +7,14 @@ I am passionate about cybersecurity and continuously building my skillset in thi
 ## Skills
 | Security Operation Centre                     |      
 |-----------------------------------------------|
-| SIEM Implementation and Log Analysis          
+| SIEM Implementation and Log Analysis   
+| Threat Intelligence Integration
 | Network Traffic Monitoring and Attack Detection 
 | Root Cause Analysis         
-| Incident Response Planning and Execution      
-| Case Management and Ticket closing                 
-| Scripting and Automation for Threat Mitigation 
+| Incident Response Planning and Execution  
+| Runbook & Playbook Development
+| Case Management and Ticket Resolution                
+| Scripting and Automation 
 
 ## Tools
 
