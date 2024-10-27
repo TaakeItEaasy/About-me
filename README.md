@@ -34,7 +34,6 @@ I am passionate about cybersecurity and continuously building my skillset in thi
 
 ### SIEM
 <div>
-    <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
     <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
 </div>
 
