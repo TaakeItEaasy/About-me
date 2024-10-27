@@ -5,7 +5,7 @@
 I am passionate about cybersecurity and continuously building my skillset in this field. With strong expertise in threat detection, incident response, and security analysis, I am eager to contribute to a dynamic Security Operations Center (SOC) as a Tier 1 or Tier 2 Analyst. 
 
 ## Skills
-| Skill                                         |      
+| Security Operation Centre                     |      
 |-----------------------------------------------|
 | SIEM Implementation and Log Analysis          
 | Network Traffic Monitoring and Attack Detection 
