@@ -14,7 +14,7 @@ I am passionate about cybersecurity and continuously building my skillset in thi
 | Incident Response Planning and Execution  
 | Runbook & Playbook Development
 | Case Management and Ticket Resolution                
-| Scripting and Automation 
+| Security Orchestration, Automation, and Response (SOAR)
 
 ## Tools
 
