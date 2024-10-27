@@ -44,7 +44,7 @@ I am passionate about cybersecurity and continuously building my skillset in thi
     <a href="https://www.sumologic.com/"><img src="https://img.shields.io/badge/-Sumo_Logic-005571?&style=for-the-badge&logo=SumoLogic&logoColor=white" /></a>
 </div>
 
-## Certifications
+### Certifications
 <div>
     <a href="https://www.credly.com/badges/c5650866-7c85-4582-a325-166b758a2a27/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
     <a href="https://www.credly.com/badges/32df7613-ec36-4d2a-b5a6-52f01d7745a5/public_url"><img src="https://img.shields.io/badge/-ISC2_CC-008C95?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
@@ -53,6 +53,3 @@ I am passionate about cybersecurity and continuously building my skillset in thi
     <a href="https://www.isc2.org/Certifications/CISSP"><img src="https://img.shields.io/badge/-CISSP_in_progress-7A7A7A?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
