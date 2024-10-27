@@ -9,7 +9,7 @@ I am passionate about cybersecurity and continuously building my skillset in thi
 |-----------------------------------------------|
 | SIEM Implementation and Log Analysis          
 | Network Traffic Monitoring and Attack Detection 
-| Security Automation         
+| Root Cause Analysis         
 | Incident Response Planning and Execution      
 | Case Management and Ticket closing                 
 | Scripting and Automation for Threat Mitigation 
